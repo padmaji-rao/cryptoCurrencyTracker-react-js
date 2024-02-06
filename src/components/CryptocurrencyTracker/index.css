@@ -1,0 +1,17 @@
+.bg-container {
+  background-color: black;
+  font-family: 'Roboto';
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+  padding: 10px;
+}
+.main-head {
+  color: #00e7ff;
+  font-size: 40px;
+}
+.cryptocurrency-img {
+  width: 50%;
+}
